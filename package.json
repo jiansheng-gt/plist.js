@@ -26,7 +26,8 @@
   "main": "index.js",
   "dependencies": {
     "base64-js": "^1.5.1",
-    "xmlbuilder": "^9.0.7"
+    "xmlbuilder": "^9.0.7",
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "browserify": "^16.5.2",
